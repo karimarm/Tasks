@@ -1,0 +1,7 @@
+﻿  Task 2.cpp
+C:\Users\user\Desktop\Tasks\Task 2\Task 2\Task 2.cpp(19,23): warning C4244: аргумент: преобразование "double" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  Task 2.vcxproj -> C:\Users\user\Desktop\Tasks\Task 2\x64\Debug\Task 2.exe
